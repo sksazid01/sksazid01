@@ -4,7 +4,9 @@
 
 ### Computer Science Engineering Student | Software Developer | Technology Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=0366D6&center=true&vCenter=true&width=500&lines=Software+Developer;Mobile+App+Developer;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https*Thank you for visiting my profile. Feel free to explore my repositories and connect for professional opportunities.*
+
+</div>-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=0366D6&center=true&vCenter=true&width=500&lines=Software+Developer;Mobile+App+Developer;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
 
 </div>
 
@@ -23,7 +25,7 @@ I am a dedicated **Computer Science Engineering student** at **Shahjalal Univers
 
 ---
 
-## 💼 Technical Expertise
+## � Technical Expertise
 
 <div align="center">
 
@@ -84,6 +86,39 @@ I am a dedicated **Computer Science Engineering student** at **Shahjalal Univers
 
 ---
 
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sksazid01&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- 🔭 **Currently working on:** Advanced Android Development & DSA Problem Solving
+- 🌱 **Learning:** Flutter, React Native, Spring Boot
+- 👯 **Looking to collaborate on:** Open source projects, Mobile apps, Web applications
+- 🤔 **Seeking help with:** System Design, Machine Learning integration
+- � **Ask me about:** Android Development, Java, Problem Solving, University Projects
+- ⚡ **Fun fact:** I love automating boring tasks with Python scripts!
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Sazid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sksazid01&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+---
+
 ## 🎯 Professional Development
 
 **Current Focus Areas:**
@@ -105,16 +140,6 @@ I am a dedicated **Computer Science Engineering student** at **Shahjalal Univers
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sksazid01&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## 📞 Professional Contact
 
 <div align="center">
@@ -129,4 +154,17 @@ I am a dedicated **Computer Science Engineering student** at **Shahjalal Univers
 
 *Thank you for visiting my profile. Feel free to explore my repositories and connect for professional opportunities.*
 
-</div>
+</div><!--
+**sksazid01/sksazid01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
