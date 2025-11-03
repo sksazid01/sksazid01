@@ -2,7 +2,7 @@
 
 # 👨‍💻 Md. AHASANUL HAQUE SAZID
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Computer+Science+Engineering+Student;Mobile+%26+Full-Stack+Developer;Open+Source+Enthusiast;Building+Tomorrow's+Technology+Today" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Computer+Science+and+Engineering+Student;Full-Stack+Developer;Open+Source+Enthusiast;" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sksazid01)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sksazid01)
@@ -62,35 +62,57 @@ I am a **Final Semester Computer Science Engineering student** at **Shahjalal Un
 
 ### 🌟 Core Competencies
 
-```mermaid
-mindmap
-  root((Sazid's<br/>Expertise))
-    Competitive Programming
-      Data Structures
-      Algorithms
-      Problem Solving
-      1200+ CF Rating
-    Mobile Development
-      Android Native
-      Kotlin & Java
-      Jetpack Compose
-      MVVM Architecture
-    Web Development
-      MERN Stack
-      React & Node.js
-      Spring Boot
-      RESTful APIs
-    Data Science & ML
-      Python Libraries
-      Model Training
-      Predictive Analytics
-      Keras & Pandas
-    Development Practices
-      Git & GitHub
-      API Testing
-      Debugging
-      Cybersecurity
-```
+<table>
+<tr>
+<td width="50%">
+
+**⚔️ Competitive Programming**
+- Data Structures & Algorithms
+- Problem Solving Techniques
+- 1200+ Codeforces Rating (Pupil)
+- 1437 CodeChef Rating (2★)
+- 325+ Vjudge Quality Problems
+
+**📱 Mobile Development**
+- Android Native (Kotlin & Java)
+- Jetpack Compose UI
+- MVVM Architecture
+- Material Design 3
+- Firebase Integration
+
+**💻 Web Development**
+- MERN Stack (Full Stack)
+- Spring Boot Backend
+- RESTful API Design
+- React.js Frontend
+- Node.js & Express
+
+</td>
+<td width="50%">
+
+**🤖 Data Science & ML**
+- Python (Keras, Pandas, NumPy)
+- Machine Learning Models
+- Data Visualization (Matplotlib)
+- Predictive Analytics
+- Model Training & Optimization
+
+**🛠️ Development Practices**
+- Git & GitHub Workflow
+- API Testing & Integration
+- Debugging & Optimization
+- Code Review Best Practices
+- Agile Methodologies
+
+**🔒 Other Skills**
+- Cybersecurity Basics
+- Database Design (SQL/NoSQL)
+- Cloud Technologies (AWS/Azure)
+- CI/CD Pipelines
+
+</td>
+</tr>
+</table>
 
 ### 💼 Professional Experience Highlights
 
@@ -402,18 +424,30 @@ Active Projects:      10+           Pull Requests:       20+
 
 <div align="center">
 
-```mermaid
-graph LR
-    A[Current Focus] --> B[Mobile Development]
-    A --> C[Backend Development]
-    A --> D[Cloud Technologies]
-    B --> E[Jetpack Compose]
-    B --> F[Flutter]
-    C --> G[Spring Boot]
-    C --> H[Node.js]
-    D --> I[AWS/Azure]
-    D --> J[Docker]
-```
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Mobile-Development-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<br><sub>Jetpack Compose</sub>
+<br><sub>Flutter</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Backend-Development-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<br><sub>Spring Boot</sub>
+<br><sub>Node.js</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Cloud-Technologies-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<br><sub>AWS/Azure</sub>
+<br><sub>Docker</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/AI%2FML-Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<br><sub>Machine Learning</sub>
+<br><sub>AI Agents</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -537,6 +571,47 @@ graph LR
 </tr>
 </table>
 
+### 🎯 Competitive Programming Profiles
+
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://codeforces.com/profile/sksazid">
+<img src="https://img.shields.io/badge/Codeforces-1200+-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+<br><sub><b>Pupil Rating</b></sub>
+<br><sub>650+ Problems Solved</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://www.codechef.com/users/sksazid">
+<img src="https://img.shields.io/badge/CodeChef-1437-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+<br><sub><b>2 Star (★★)</b></sub>
+<br><sub>100+ Problems Solved</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://leetcode.com/u/sksazid/">
+<img src="https://img.shields.io/badge/LeetCode-sksazid-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+<br><sub><b>Active Solver</b></sub>
+<br><sub>DSA Practice</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Vjudge-325+-FF6B6B?style=for-the-badge"/>
+<br><sub><b>Quality Problems</b></sub>
+<br><sub>325+ Problems Solved</sub>
+</td>
+</tr>
+</table>
+
+### 📊 LeetCode Statistics
+
+<p align="center">
+<a href="https://leetcode.com/u/sksazid/">
+<img src="https://leetcard.jacoblin.cool/sksazid?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats" />
+</a>
+</p>
+
 </div>
 
 ---
@@ -580,25 +655,22 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 ### 📍 Location & Availability
 
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Sylhet, Bangladesh",
-        "status": "Available for opportunities",
-        "timezone": "GMT+6"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [91.8833, 24.9000]
-      }
-    }
-  ]
-}
-```
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/📍_Location-Sylhet,_Bangladesh-00D9FF?style=for-the-badge"/>
+<br><sub>🇧🇩 Bogura → Sylhet</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🕒_Timezone-GMT+6-00D9FF?style=for-the-badge"/>
+<br><sub>Available for opportunities</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/💼_Status-Open_to_Work-success?style=for-the-badge"/>
+<br><sub>Remote & On-site</sub>
+</td>
+</tr>
+</table>
 
 ### 🌐 Social Media Presence
 
