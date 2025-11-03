@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sksazid01)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sksazid01)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahasanulhaque20@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/sksazid01)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](sksazid.me)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sksazid01&style=for-the-badge&color=00D9FF)
 
@@ -19,14 +19,35 @@
 
 ```typescript
 const sazid = {
-    location: "Sylhet, Bangladesh 🇧🇩",
+    name: "Md. Ahasanul Haque Sazid",
+    location: "Bogura → Sylhet, Bangladesh 🇧🇩",
+    email: "ahasanulhaque20@gmail.com",
+    website: "sksazid.me",
     education: "B.Sc. in Computer Science & Engineering",
     university: "Shahjalal University of Science and Technology (SUST)",
-    roles: ["Mobile App Developer", "Full-Stack Developer", "Problem Solver"],
-    languages: ["Bengali", "English"],
-    currentFocus: ["Android Development", "Cross-Platform Solutions", "Cloud Technologies"],
-    communities: ["Open Source", "Tech Conferences", "Developer Meetups"],
-    lifePhilosophy: "Code with purpose, learn continuously, and share knowledge"
+    expectedGraduation: "2026",
+    currentYear: "Final Year Student",
+    roles: [
+        "Competitive Programmer", 
+        "Mobile App Developer", 
+        "Full-Stack Developer",
+        "AI/ML Enthusiast"
+    ],
+    achievements: {
+        codeforces: "1200+ Rating (Pupil)",
+        codechef: "1437 Rating (2★)",
+        hackathons: ["HackTheAI Grand Final - 4th Place", "HackTheAI Preliminary - 6th Place"],
+        competitions: "SUST IUPC 2023 Participant"
+    },
+    languages: ["Bengali (Native)", "English (Professional)"],
+    currentFocus: [
+        "Android Development with Jetpack Compose",
+        "Machine Learning & AI Agents", 
+        "Data Structures & Algorithms",
+        "Competitive Programming"
+    ],
+    interests: ["Machine Learning", "AI Agents", "Robotics", "Cybersecurity", "Blockchain"],
+    lifePhilosophy: "A dedicated Problem Solver and Quick Learner 🚀"
 };
 ```
 
@@ -35,32 +56,49 @@ const sazid = {
 
 <br>
 
-I am a passionate **Computer Science Engineering student** at **Shahjalal University of Science and Technology (SUST)**, with hands-on experience in developing scalable mobile and web applications. My journey in software development is driven by a commitment to clean code, innovative solutions, and continuous learning.
+> *"A dedicated Problem Solver and Quick Learner"*
+
+I am a **Final Semester Computer Science Engineering student** at **Shahjalal University of Science and Technology (SUST)**, passionate about building impactful technology. With hands-on experience in development, machine learning, and API testing, I've achieved notable rankings in competitive programming platforms and hackathons.
 
 ### 🌟 Core Competencies
 
 ```mermaid
 mindmap
   root((Sazid's<br/>Expertise))
+    Competitive Programming
+      Data Structures
+      Algorithms
+      Problem Solving
+      1200+ CF Rating
     Mobile Development
       Android Native
       Kotlin & Java
+      Jetpack Compose
       MVVM Architecture
-      Material Design
     Web Development
-      Frontend Technologies
-      Responsive Design
+      MERN Stack
+      React & Node.js
+      Spring Boot
       RESTful APIs
-    Software Engineering
-      OOP Principles
-      Design Patterns
-      Algorithm Design
-      Data Structures
-    Development Tools
+    Data Science & ML
+      Python Libraries
+      Model Training
+      Predictive Analytics
+      Keras & Pandas
+    Development Practices
       Git & GitHub
-      CI/CD
-      Agile Methodologies
+      API Testing
+      Debugging
+      Cybersecurity
 ```
+
+### 💼 Professional Experience Highlights
+
+- 🏆 **Competitive Programmer** | 1200+ Codeforces Rating (Pupil) | 1437 CodeChef Rating (2★)
+- 🤖 **AI Trainer & Tester** | Trained chatbots for Bangla language and coding tasks
+- 📊 **Data Science Specialist** | Worked with Keras, NumPy, Matplotlib, Pandas for ML projects
+- 💻 **Full-Stack Developer** | Built MERN stack applications and Spring Boot APIs
+- 🥇 **Hackathon Finalist** | 4th Place in HackTheAI Grand Final (Smart-IELTS platform)
 
 </details>
 
@@ -114,6 +152,10 @@ mindmap
 <br>Firebase
 </td>
 <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" />
+<br>Spring Boot
+</td>
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
 <br>HTML5
 </td>
@@ -128,6 +170,10 @@ mindmap
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
 <br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
+<br>Express.js
 </td>
 </tr>
 </table>
@@ -194,34 +240,87 @@ mindmap
 
 <div align="center">
 
-### 🍔 Eatery - Food Ordering Application
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sksazid01/Eatery-Android-App)
+### � Smart-IELTS Platform (HackTheAI - Grand Final 4th Place)
+[![SmythOS](https://img.shields.io/badge/Powered_by-SmythOS-00D9FF?style=for-the-badge&logo=ai&logoColor=white)](https://hacktheai.com)
 
-A comprehensive Android food ordering application featuring modern UI/UX design and robust backend integration.
+AI-powered IELTS preparation platform using SmythOS agents. Secured **4th position among 50 finalist teams** from universities across Bangladesh.
 
 **Key Features:**
-- 🔐 Secure user authentication & authorization
-- 📱 Real-time menu browsing with search functionality
-- 🛒 Shopping cart with dynamic price calculation
-- 📦 Order tracking and history management
-- 💳 Multiple payment gateway integration
+- 🤖 AI-powered learning agents for personalized IELTS training
+- 📊 Machine Learning models for performance prediction
+- 🎯 Adaptive practice modules
+- 📈 Real-time progress tracking and analytics
 
-**Tech Stack:** `Kotlin` `Android SDK` `Firebase` `MVVM` `Material Design` `Retrofit`
+**Tech Stack:** `SmythOS` `AI Agents` `React` `Node.js` `Machine Learning` `Python`
+
+**Achievement:** 🥇 **Grand Final - 4th Place** | September 2025
 
 ---
 
-### 🎮 Interactive Word Game
+### 🛒 E-commerce Marketplace
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sksazid01)
+
+Full-featured e-commerce platform with comprehensive seller and buyer management system.
+
+**Key Features:**
+- 🏪 Multi-vendor marketplace architecture
+- 🛍️ Product catalog with advanced search & filters
+- 💳 Secure payment processing
+- 📦 Order tracking and inventory management
+- ⭐ Review and rating system
+
+**Tech Stack:** `Java` `Servlet` `JPA` `MySQL` `Bootstrap`  
+**Timeline:** February 2023 - July 2023
+
+---
+
+### 🏢 Club Management System
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sksazid01)
+
+Modern club management solution built with MERN stack for efficient event and member management.
+
+**Key Features:**
+- � Member registration and profile management
+- 📅 Event scheduling and RSVP system
+- 💰 Payment tracking and financial reports
+- 📧 Automated email notifications
+- 📊 Analytics dashboard for club activities
+
+**Tech Stack:** `MongoDB` `Express.js` `React` `Node.js`  
+**Timeline:** January 2025 - July 2025
+
+---
+
+### 🍽️ Restaurant Management System
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sksazid01)
+
+Comprehensive restaurant management system with modern UI using Jetpack Compose.
+
+**Key Features:**
+- � Table booking and reservation system
+- 🍔 Digital menu with real-time updates
+- 🧾 Order management and billing
+- �‍🍳 Kitchen display system (KDS)
+- 📈 Sales analytics and reports
+
+**Tech Stack:** `Kotlin` `Jetpack Compose` `Room Database` `MVVM`  
+**Timeline:** October 2023 - March 2025
+
+---
+
+### 🎮 Word Matching Game
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sksazid01/Word-Game-JavaFX)
 
-Desktop word puzzle game with elegant JavaFX GUI, implementing advanced game logic and user interaction.
+Interactive word puzzle game with elegant JavaFX UI design.
 
 **Key Features:**
 - 🎯 Dynamic word generation algorithm
 - 🏆 Scoring system with difficulty levels
 - 💾 Save/Load game functionality
-- 🎨 Responsive and intuitive UI
+- 🎨 Intuitive and responsive UI
 
-**Tech Stack:** `Java` `JavaFX` `Scene Builder` `MVC Pattern`
+**Tech Stack:** `Java` `JavaFX` `UI Design`  
+**Timeline:** April 2023 - June 2023
 
 ---
 
@@ -240,33 +339,19 @@ Educational quiz application to enhance geographical knowledge through interacti
 
 ---
 
-### 🏫 College Community Platform
+### 🏫 College Samaj - Community Platform
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sksazid01/COLLEGESAMAJ)
 
-Web platform designed for college community engagement, developed during professional internship.
+Web platform for college community engagement developed during internship at College Samaj.
 
 **Key Features:**
 - 👥 User profiles and social networking
 - 📢 Announcement and event management
-- 💬 Real-time messaging system
+- 💬 Community discussion forums
 - 📱 Fully responsive design
 
-**Tech Stack:** `HTML5` `CSS3` `JavaScript` `Bootstrap` `PHP`
-
----
-
-### 🤖 Social Media Automation Tool
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sksazid01/Facebook_Auto_Poke_Back)
-
-Python automation script demonstrating API integration and automated social media interactions.
-
-**Key Features:**
-- 🔄 Automated response system
-- 📊 Activity analytics dashboard
-- ⚙️ Configurable automation rules
-- 🔐 Secure authentication handling
-
-**Tech Stack:** `Python` `Selenium` `REST APIs` `BeautifulSoup`
+**Tech Stack:** `HTML5` `CSS3` `JavaScript` `Bootstrap`  
+**Timeline:** January 2024 - February 2024 (Internship)
 
 </div>
 
