@@ -51,6 +51,55 @@ const sazid = {
 };
 ```
 
+---
+
+## 🎯 Competitive Programming Profiles
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://codeforces.com/profile/sksazid">
+<img src="https://img.shields.io/badge/Codeforces-1200+-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+<br><sub><b>Pupil Rating</b></sub>
+<br><sub>650+ Problems Solved</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://www.codechef.com/users/sksazid">
+<img src="https://img.shields.io/badge/CodeChef-1437-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+<br><sub><b>2 Star (★★)</b></sub>
+<br><sub>100+ Problems Solved</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://leetcode.com/u/sksazid/">
+<img src="https://img.shields.io/badge/LeetCode-sksazid-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+<br><sub><b>Active Solver</b></sub>
+<br><sub>DSA Practice</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Vjudge-325+-FF6B6B?style=for-the-badge"/>
+<br><sub><b>Quality Problems</b></sub>
+<br><sub>325+ Problems Solved</sub>
+</td>
+</tr>
+</table>
+
+### 📊 LeetCode Statistics
+
+<p align="center">
+<a href="https://leetcode.com/u/sksazid/">
+<img src="https://leetcard.jacoblin.cool/sksazid?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats" />
+</a>
+</p>
+
+</div>
+
+---
+
 <details>
 <summary><b>🎯 Professional Summary</b></summary>
 
@@ -260,9 +309,7 @@ I am a **Final Semester Computer Science Engineering student** at **Shahjalal Un
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-### � Smart-IELTS Platform (HackTheAI - Grand Final 4th Place)
+### ◆ Smart-IELTS Platform (HackTheAI - Grand Final 4th Place)
 [![SmythOS](https://img.shields.io/badge/Powered_by-SmythOS-00D9FF?style=for-the-badge&logo=ai&logoColor=white)](https://hacktheai.com)
 
 AI-powered IELTS preparation platform using SmythOS agents. Secured **4th position among 50 finalist teams** from universities across Bangladesh.
@@ -570,47 +617,6 @@ Active Projects:      10+           Pull Requests:       20+
 </td>
 </tr>
 </table>
-
-### 🎯 Competitive Programming Profiles
-
-<table>
-<tr>
-<td align="center" width="25%">
-<a href="https://codeforces.com/profile/sksazid">
-<img src="https://img.shields.io/badge/Codeforces-1200+-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-<br><sub><b>Pupil Rating</b></sub>
-<br><sub>650+ Problems Solved</sub>
-</td>
-<td align="center" width="25%">
-<a href="https://www.codechef.com/users/sksazid">
-<img src="https://img.shields.io/badge/CodeChef-1437-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-<br><sub><b>2 Star (★★)</b></sub>
-<br><sub>100+ Problems Solved</sub>
-</td>
-<td align="center" width="25%">
-<a href="https://leetcode.com/u/sksazid/">
-<img src="https://img.shields.io/badge/LeetCode-sksazid-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-<br><sub><b>Active Solver</b></sub>
-<br><sub>DSA Practice</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Vjudge-325+-FF6B6B?style=for-the-badge"/>
-<br><sub><b>Quality Problems</b></sub>
-<br><sub>325+ Problems Solved</sub>
-</td>
-</tr>
-</table>
-
-### 📊 LeetCode Statistics
-
-<p align="center">
-<a href="https://leetcode.com/u/sksazid/">
-<img src="https://leetcard.jacoblin.cool/sksazid?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats" />
-</a>
-</p>
 
 </div>
 
