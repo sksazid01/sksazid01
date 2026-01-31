@@ -15,44 +15,6 @@
 
 ---
 
-## 👤 About Me
-
-```typescript
-const sazid = {
-    name: "Md. Ahasanul Haque Sazid",
-    location: "Bogura → Sylhet, Bangladesh 🇧🇩",
-    email: "ahasanulhaque20@gmail.com",
-    website: "sksazid.me",
-    education: "B.Sc. in Computer Science & Engineering",
-    university: "Shahjalal University of Science and Technology (SUST)",
-    expectedGraduation: "2026",
-    currentYear: "Final Year Student",
-    roles: [
-        "Competitive Programmer", 
-        "Mobile App Developer", 
-        "Full-Stack Developer",
-        "AI/ML Enthusiast"
-    ],
-    achievements: {
-        codeforces: "1200+ Rating (Pupil)",
-        codechef: "1437 Rating (2★)",
-        hackathons: ["HackTheAI Grand Final - 4th Place", "HackTheAI Preliminary - 6th Place"],
-        competitions: "SUST IUPC 2023 Participant"
-    },
-    languages: ["Bengali (Native)", "English (Professional)"],
-    currentFocus: [
-        "Android Development with Jetpack Compose",
-        "Machine Learning & AI Agents", 
-        "Data Structures & Algorithms",
-        "Competitive Programming"
-    ],
-    interests: ["Machine Learning", "AI Agents", "Robotics", "Cybersecurity", "Blockchain"],
-    lifePhilosophy: "A dedicated Problem Solver and Quick Learner 🚀"
-};
-```
-
----
-
 ## 🎯 Competitive Programming Profiles
 
 <div align="center">
